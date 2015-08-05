@@ -17,18 +17,18 @@ If you get any problems trying to run it, you can clean the sources:
 
 After that, you can run <code>make</code> again. :)
 
-<img src="https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Screenshots/build.png" alt="Console" height="200" width="250">
+<img src="https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Screenshots/build.png" alt="Console" height="400" width="500">
 
 ##Screenshots
 
 
-<img src="https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Screenshots/sg1.jpg" alt="Main view" height="200" width="250">
+<img src="https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Screenshots/sg1.jpg" alt="Main view" height="400" width="500">
 
-<img src="https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Screenshots/sg2.jpg" alt="Graphic mode" height="200" width="250">
+<img src="https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Screenshots/sg2.jpg" alt="Graphic mode" height="400" width="500">
 
-<img src="https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Screenshots/sg3.jpg" alt="Normal mode" height="200" width="250">
+<img src="https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Screenshots/sg3.jpg" alt="Normal mode" height="400" width="500">
 
-<img src="https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Screenshots/sg4.jpg" alt="About" height="200" width="250">
+<img src="https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Screenshots/sg4.jpg" alt="About" height="400" width="500">
 
 ##References
 
