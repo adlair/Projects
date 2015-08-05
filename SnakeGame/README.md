@@ -1,7 +1,12 @@
 # SnakeGame
 This is a sample game for you can understand how Xamarin for Android works. You can clone the repository, modify by yourself or contribute to make it better.
 
+##Licence
+
+You can read about the licence [here](https://github.com/adlair/SnakeGame/blob/master/SnakeGame/Licence.md).
+
 ##Building the project
+
 For fast build, you only needs to run:
 
 <code>computer:session user$ make</code>
