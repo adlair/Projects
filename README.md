@@ -1,11 +1,7 @@
-# SnakeGame
-This is a sample game for you can understand how Xamarin for Android works. You can clone the repository, modify by yourself or contribute to make it better.
+#Adlair Cerecedo-Mendez
 
-##Building the project
-For fast build, you only needs to run:
+This repo contains only my personal projects.
 
-<code>computer:session user$ make
+##Contact
 
-If you get any problems trying to run it, you can clean the sources:
-
-<code> computer:session user$ make clean
+<adlair.cerecedo@xamarin.com> or <adlair@linuxmail.org>
