@@ -29,9 +29,11 @@ After that, you can run <code>make</code> again. :)
 
 You can understand more about Xamarin and Mono for Android following the next links:
 
-About Xamarin: [id]: https://xamarin.com/ "Xamarin Inc"
-About Xamarin.Android: [id]: http://developer.xamarin.com/guides/android/ "Xamarin for Android"
-Also, you can try porting the project to MonoGame if you want: [id]: http://developer.xamarin.com/guides/cross-platform/game_development/monogame/ "MonoGame"
+About Xamarin: https://xamarin.com/
+
+About Xamarin.Android: http://developer.xamarin.com/guides/android/
+
+Also, you can try porting the project to MonoGame if you want: http://developer.xamarin.com/guides/cross-platform/game_development/monogame/
 
 ##Contact
 
