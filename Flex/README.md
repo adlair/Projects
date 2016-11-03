@@ -1,7 +1,7 @@
 # FLEX for Xamarin
  [![CocoaPods](https://img.shields.io/cocoapods/l/FLEX.svg)](https://github.com/Flipboard/FLEX/blob/master/LICENSE)
  [![CocoaPods](https://img.shields.io/cocoapods/p/FLEX.svg)]()
- [![Twitter: @ryanolsonk](https://img.shields.io/badge/contact-@ryanolsonk-blue.svg?style=flat)](https://twitter.com/adlair)
+ [![Twitter: @adlair](https://img.shields.io/badge/contact-@ryanolsonk-blue.svg?style=flat)](https://twitter.com/adlair)
  [![Build Status](https://travis-ci.org/Flipboard/FLEX.svg?branch=master)](https://travis-ci.org/Flipboard/FLEX)
  [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
