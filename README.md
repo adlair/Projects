@@ -4,4 +4,4 @@ This repo contains only my personal projects.
 
 ##Contact
 
-<adlair.cerecedo@xamarin.com> or <adlair@linuxmail.org>
+<adcer@microsoft.com> or <adlair@linuxmail.org>
