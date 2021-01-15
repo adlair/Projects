@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{E619D307-A6CF-4140-9F47-1313D75BF3D3}|Default">
+  <MonoDevelop.Ide.ItemProperties.PCI-Insured PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PCI-Insured/APILoader.cs">
+    <Files>
+      <File FileName="PCI-Insured/APILoader.cs" Line="19" Column="8" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PCI-Insured" expanded="True">
+            <Node name="CloudDataGateway" expanded="True">
+              <Node name="Configuration" expanded="True" />
+            </Node>
+            <Node name="DataObjects" expanded="True" />
+            <Node name="PCI-Insured" expanded="True">
+              <Node name="APILoader.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

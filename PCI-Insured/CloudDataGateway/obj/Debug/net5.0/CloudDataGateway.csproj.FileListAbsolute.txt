@@ -1,0 +1,15 @@
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/bin/Debug/net5.0/CloudDataGateway.deps.json
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/bin/Debug/net5.0/CloudDataGateway.dll
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/bin/Debug/net5.0/ref/CloudDataGateway.dll
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/bin/Debug/net5.0/CloudDataGateway.pdb
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/bin/Debug/net5.0/DataObjects.dll
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/bin/Debug/net5.0/DataObjects.pdb
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/obj/Debug/net5.0/CloudDataGateway.csprojAssemblyReference.cache
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/obj/Debug/net5.0/CloudDataGateway.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/obj/Debug/net5.0/CloudDataGateway.AssemblyInfoInputs.cache
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/obj/Debug/net5.0/CloudDataGateway.AssemblyInfo.cs
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/obj/Debug/net5.0/CloudDataGateway.csproj.CoreCompileInputs.cache
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/obj/Debug/net5.0/CloudDataGateway.csproj.CopyComplete
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/obj/Debug/net5.0/CloudDataGateway.dll
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/obj/Debug/net5.0/ref/CloudDataGateway.dll
+/Users/adlair/Projects/PCI-Insured/CloudDataGateway/obj/Debug/net5.0/CloudDataGateway.pdb
