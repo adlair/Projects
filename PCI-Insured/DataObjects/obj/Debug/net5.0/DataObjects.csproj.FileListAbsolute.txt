@@ -1,0 +1,11 @@
+/Users/adlair/Projects/PCI-Insured/DataObjects/bin/Debug/net5.0/DataObjects.deps.json
+/Users/adlair/Projects/PCI-Insured/DataObjects/bin/Debug/net5.0/DataObjects.dll
+/Users/adlair/Projects/PCI-Insured/DataObjects/bin/Debug/net5.0/ref/DataObjects.dll
+/Users/adlair/Projects/PCI-Insured/DataObjects/bin/Debug/net5.0/DataObjects.pdb
+/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/net5.0/DataObjects.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/net5.0/DataObjects.AssemblyInfoInputs.cache
+/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/net5.0/DataObjects.AssemblyInfo.cs
+/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/net5.0/DataObjects.csproj.CoreCompileInputs.cache
+/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/net5.0/DataObjects.dll
+/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/net5.0/ref/DataObjects.dll
+/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/net5.0/DataObjects.pdb
