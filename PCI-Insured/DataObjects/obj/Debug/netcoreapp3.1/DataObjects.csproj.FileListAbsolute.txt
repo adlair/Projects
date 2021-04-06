@@ -1,9 +1,0 @@
-/Users/adlair/Projects/PCI-Insured/DataObjects/bin/Debug/netcoreapp3.1/DataObjects.deps.json
-/Users/adlair/Projects/PCI-Insured/DataObjects/bin/Debug/netcoreapp3.1/DataObjects.dll
-/Users/adlair/Projects/PCI-Insured/DataObjects/bin/Debug/netcoreapp3.1/DataObjects.pdb
-/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.csprojAssemblyReference.cache
-/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.AssemblyInfoInputs.cache
-/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.AssemblyInfo.cs
-/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.csproj.CoreCompileInputs.cache
-/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.dll
-/Users/adlair/Projects/PCI-Insured/DataObjects/obj/Debug/netcoreapp3.1/DataObjects.pdb
